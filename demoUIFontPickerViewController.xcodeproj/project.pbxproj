@@ -13,6 +13,8 @@
 		A215561B2379BDB40065A899 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A21556192379BDB40065A899 /* Main.storyboard */; };
 		A215561D2379BDB70065A899 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A215561C2379BDB70065A899 /* Assets.xcassets */; };
 		A21556202379BDB70065A899 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A215561E2379BDB70065A899 /* LaunchScreen.storyboard */; };
+		A2B9FDF22379C68500598080 /* ScreenShot2.png in Resources */ = {isa = PBXBuildFile; fileRef = A2B9FDF02379C68500598080 /* ScreenShot2.png */; };
+		A2B9FDF32379C68500598080 /* ScreenShot1.png in Resources */ = {isa = PBXBuildFile; fileRef = A2B9FDF12379C68500598080 /* ScreenShot1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		A215561F2379BDB70065A899 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A21556212379BDB70065A899 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A21556272379C29A0065A899 /* demoUIFontPickerViewController.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = demoUIFontPickerViewController.entitlements; sourceTree = "<group>"; };
+		A2B9FDF02379C68500598080 /* ScreenShot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot2.png; sourceTree = "<group>"; };
+		A2B9FDF12379C68500598080 /* ScreenShot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +47,7 @@
 			children = (
 				A21556122379BDB40065A899 /* demoUIFontPickerViewController */,
 				A21556112379BDB40065A899 /* Products */,
+				A2B9FDEF2379C66200598080 /* images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,6 +72,15 @@
 				A21556212379BDB70065A899 /* Info.plist */,
 			);
 			path = demoUIFontPickerViewController;
+			sourceTree = "<group>";
+		};
+		A2B9FDEF2379C66200598080 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				A2B9FDF12379C68500598080 /* ScreenShot1.png */,
+				A2B9FDF02379C68500598080 /* ScreenShot2.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,6 +143,8 @@
 			files = (
 				A21556202379BDB70065A899 /* LaunchScreen.storyboard in Resources */,
 				A215561D2379BDB70065A899 /* Assets.xcassets in Resources */,
+				A2B9FDF22379C68500598080 /* ScreenShot2.png in Resources */,
+				A2B9FDF32379C68500598080 /* ScreenShot1.png in Resources */,
 				A215561B2379BDB40065A899 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
