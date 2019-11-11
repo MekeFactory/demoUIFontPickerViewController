@@ -29,6 +29,7 @@
 		A21556272379C29A0065A899 /* demoUIFontPickerViewController.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = demoUIFontPickerViewController.entitlements; sourceTree = "<group>"; };
 		A2B9FDF02379C68500598080 /* ScreenShot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot2.png; sourceTree = "<group>"; };
 		A2B9FDF12379C68500598080 /* ScreenShot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot1.png; sourceTree = "<group>"; };
+		A2B9FDF42379C71A00598080 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 				A21556122379BDB40065A899 /* demoUIFontPickerViewController */,
 				A21556112379BDB40065A899 /* Products */,
 				A2B9FDEF2379C66200598080 /* images */,
+				A2B9FDF42379C71A00598080 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
